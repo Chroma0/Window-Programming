@@ -1,0 +1,12 @@
+D:\Visual Studio\Program\Homework9\bin\Debug\Database1.mdf
+D:\Visual Studio\Program\Homework9\bin\Debug\Database1_log.ldf
+D:\Visual Studio\Program\Homework9\bin\Debug\Homework9.exe.config
+D:\Visual Studio\Program\Homework9\bin\Debug\Homework9.exe
+D:\Visual Studio\Program\Homework9\bin\Debug\Homework9.pdb
+D:\Visual Studio\Program\Homework9\obj\Debug\Homework9.csprojAssemblyReference.cache
+D:\Visual Studio\Program\Homework9\obj\Debug\Homework9.Form1.resources
+D:\Visual Studio\Program\Homework9\obj\Debug\Homework9.Properties.Resources.resources
+D:\Visual Studio\Program\Homework9\obj\Debug\Homework9.csproj.GenerateResource.cache
+D:\Visual Studio\Program\Homework9\obj\Debug\Homework9.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Program\Homework9\obj\Debug\Homework9.exe
+D:\Visual Studio\Program\Homework9\obj\Debug\Homework9.pdb
