@@ -1,0 +1,20 @@
+D:\Visual Studio\Program\Homework4-1\bin\Debug\Homework4-1.exe.config
+D:\Visual Studio\Program\Homework4-1\bin\Debug\Homework4-1.exe
+D:\Visual Studio\Program\Homework4-1\bin\Debug\Homework4-1.pdb
+D:\Visual Studio\Program\Homework4-1\obj\Debug\Homework4-1.csprojAssemblyReference.cache
+D:\Visual Studio\Program\Homework4-1\obj\Debug\Homework4_1.Form1.resources
+D:\Visual Studio\Program\Homework4-1\obj\Debug\Homework4_1.Properties.Resources.resources
+D:\Visual Studio\Program\Homework4-1\obj\Debug\Homework4-1.csproj.GenerateResource.cache
+D:\Visual Studio\Program\Homework4-1\obj\Debug\Homework4-1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Program\Homework4-1\obj\Debug\Homework4-1.exe
+D:\Visual Studio\Program\Homework4-1\obj\Debug\Homework4-1.pdb
+C:\Users\ASUS\Desktop\Homework4-1\bin\Debug\Homework4-1.exe.config
+C:\Users\ASUS\Desktop\Homework4-1\bin\Debug\Homework4-1.exe
+C:\Users\ASUS\Desktop\Homework4-1\bin\Debug\Homework4-1.pdb
+C:\Users\ASUS\Desktop\Homework4-1\obj\Debug\Homework4-1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Homework4-1\obj\Debug\Homework4_1.Form1.resources
+C:\Users\ASUS\Desktop\Homework4-1\obj\Debug\Homework4_1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Homework4-1\obj\Debug\Homework4-1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Homework4-1\obj\Debug\Homework4-1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Homework4-1\obj\Debug\Homework4-1.exe
+C:\Users\ASUS\Desktop\Homework4-1\obj\Debug\Homework4-1.pdb

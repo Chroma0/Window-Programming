@@ -1,0 +1,10 @@
+D:\Visual Studio\Program\Homework5-1\bin\Debug\Homework5-1.exe.config
+D:\Visual Studio\Program\Homework5-1\bin\Debug\Homework5-1.exe
+D:\Visual Studio\Program\Homework5-1\bin\Debug\Homework5-1.pdb
+D:\Visual Studio\Program\Homework5-1\obj\Debug\Homework5-1.csprojAssemblyReference.cache
+D:\Visual Studio\Program\Homework5-1\obj\Debug\Homework5_1.Form1.resources
+D:\Visual Studio\Program\Homework5-1\obj\Debug\Homework5_1.Properties.Resources.resources
+D:\Visual Studio\Program\Homework5-1\obj\Debug\Homework5-1.csproj.GenerateResource.cache
+D:\Visual Studio\Program\Homework5-1\obj\Debug\Homework5-1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Program\Homework5-1\obj\Debug\Homework5-1.exe
+D:\Visual Studio\Program\Homework5-1\obj\Debug\Homework5-1.pdb
